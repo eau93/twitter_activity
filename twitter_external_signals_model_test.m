@@ -1,6 +1,6 @@
 function twitter_external_signals_model_test(N,G,k_avg,k_in,k_out,total_time,tau,A,f,E,u)
 
-% test
+% testing for github
 
 % this function creates an N x time matrix of ones and zeros, one for
 % tweet and zero for no tweets
